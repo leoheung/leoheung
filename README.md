@@ -56,7 +56,6 @@
 
 ## ❤️ Support Me!
 - [Support me on Github Sponsor](https://github.com/sponsors/leoxiang66)
-- [Support me with Wechat or Alipay](https://sponsorme.memomind.cn/)
 
 ## 📢 News
 - check more at [Leon's Moments](https://moments.memomind.cn/)

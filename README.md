@@ -14,7 +14,7 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 Coding Stats
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact&rank_icon=github&include_all_commits=true" /> -->
 

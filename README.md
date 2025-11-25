@@ -53,22 +53,6 @@
 
 <img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
 
-## 📖 Publication
-[[ORCID Profile](https://orcid.org/0000-0001-6217-6560)]
-
-
-
-
-
-
-## 🚀 Softwares
-- [LoConn](https://github.com/leoxiang66/golan)
-- [Dingo - Docker Desktop](https://github.com/leoxiang66/Dingo-Application)
-- [Latex Tool](https://github.com/leoxiang66/Latex-Tool-App)
-- [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
-- [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
-- [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
-- [英雄联盟悠米助手](https://github.com/leoxiang66/lol-yuumi)
 
 ## ❤️ Support Me!
 - [Support me on Github Sponsor](https://github.com/sponsors/leoxiang66)

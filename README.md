@@ -57,6 +57,4 @@
 ## ❤️ Support Me!
 - [Support me on Github Sponsor](https://github.com/sponsors/leoheung)
 
-## 📢 News
-- check more at [Leon's Moments](https://moments.memomind.cn/)
 

@@ -14,7 +14,7 @@
 
 
 
-## 📊 Coding Stats
+<!-- ## 📊 Coding Stats -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact&rank_icon=github&include_all_commits=true" /> -->
 
@@ -26,7 +26,7 @@
 
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages&hide=HTML,jupyter%20notebook,Desktop%20File,NSIS,vue,tex,PostScript,YAML,GLSL,dockerfile,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config) -->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@leoxiang66/a34f2f34-1914-4039-a5f7-266c5dd52be9.png" /></a>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@leoxiang66/a34f2f34-1914-4039-a5f7-266c5dd52be9.png" /></a> -->
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoxiang66) -->
 

@@ -82,9 +82,6 @@ I started with Python in 2019, went through NLP and research at TUM (PEER, Trend
 - [The-Detection-of-Hela-Cells-in-Brightfield-Images](https://github.com/leoheung/The-Detection-of-Hela-Cells-in-Brightfield-Images) — Detecting Hela cells in brightfield microscopy images.
 - [Developing-a-Resource-Planning-Platform-for-Autonomous-Vehicles](https://github.com/leoheung/Developing-a-Resource-Planning-Platform-for-Autonomous-Vehicles) — A resource-planning platform for autonomous vehicles.
 
-## Beyond code
-
-Co-author of [TrendFlow](https://github.com/leoheung/research-trends-analysis), a machine-learning framework for research trend analysis, and a longtime contributor to research codebases around TUM.
 
 ## ❤️ Support Me
 

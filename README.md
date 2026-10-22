@@ -50,8 +50,6 @@ I started with Python in 2019, went through NLP and research at TUM (PEER, Trend
 *NLP and research at TUM — the year of PEER.*
 
 - [research-trends-analysis](https://github.com/leoheung/research-trends-analysis) — The official repo of the paper "TrendFlow: A Machine Learning Framework for Research Trend Analysis".
-- [ai-assisted-writing](https://github.com/leoheung/ai-assisted-writing) — My working copy of PEER, TUM's AI-assisted writing platform.
-- [peer](https://github.com/leoheung/peer) / [peer_web](https://github.com/leoheung/peer_web) / [slidenoteapp](https://github.com/leoheung/slidenoteapp) — PEER's clients, in Dart and Flutter.
 - [memochat_web](https://github.com/leoheung/memochat_web) — A memo chat app for the web.
 - [leoxiang66.io.server](https://github.com/leoheung/leoxiang66.io.server) — The backend of my personal site.
 - [astro-sites](https://github.com/leoheung/astro-sites) — Sites built on Astro.
@@ -59,7 +57,6 @@ I started with Python in 2019, went through NLP and research at TUM (PEER, Trend
 - [functional-data-structure](https://github.com/leoheung/functional-data-structure) — Functional data structures implemented in ReScript.
 - [Kasneci-Lab/AI-assisted-writing](https://github.com/Kasneci-Lab/AI-assisted-writing) — In other people's repos: 46 commits to PEER upstream, TUM's AI-assisted writing platform.
 - [lifteneg-KI/VWA-Buddy](https://github.com/lifteneg-KI/VWA-Buddy) — In other people's repos: an AI writing buddy for pre-academic theses.
-- [memomind/Persistent-Memory-CAI](https://github.com/memomind/Persistent-Memory-CAI) — In other people's repos: persistent memory for conversational AI.
 
 ### 2022
 

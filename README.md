@@ -82,7 +82,3 @@ I started with Java in 2018, went through NLP and research at TUM (PEER, TrendFl
 - [The-Detection-of-Hela-Cells-in-Brightfield-Images](https://github.com/leoheung/The-Detection-of-Hela-Cells-in-Brightfield-Images) — Detecting Hela cells in brightfield microscopy images.
 - [Developing-a-Resource-Planning-Platform-for-Autonomous-Vehicles](https://github.com/leoheung/Developing-a-Resource-Planning-Platform-for-Autonomous-Vehicles) — A resource-planning platform for autonomous vehicles.
 
-
-## ❤️ Support Me
-
-- [Support me on GitHub Sponsors](https://github.com/sponsors/leoheung)

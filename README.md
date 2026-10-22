@@ -1,6 +1,6 @@
 # Hi, I'm Leo 👋
 
-I started with Python in 2019, went through NLP and research at TUM (PEER, TrendFlow), then spent my robotics years on autonomous driving (Hikvision cameras, ROS 2), and now write small, fast tools in Go — built for the agent era, opening in a moment and staying out of your way.
+I started with Java in 2018, went through NLP and research at TUM (PEER, TrendFlow), then spent my robotics years on autonomous driving (Hikvision cameras, ROS 2), and now write small, fast tools in Go — built for the agent era, opening in a moment and staying out of your way.
 
 [![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) 
 

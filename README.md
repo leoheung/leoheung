@@ -1,60 +1,50 @@
-# Hi there 👋 I'm Leo.
+# Hi, I'm Leo 👋
 
+I write small, fast tools in Go. I came to software through robots — ROS 2, LiDAR and computer vision — studied at TUM, and published research along the way. These days I build developer tooling for the agent era: apps that open in a moment, sip memory, and stay out of your way.
 
+[![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoheung)
 
-[![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoxiang66.leoxiang66)
+<img src="https://skillicons.dev/icons?i=go,python,cpp,rust,ts,react,svelte,nodejs,pytorch,docker,linux,vite,tailwindcss,dart,flutter,latex" />
 
-<img src="https://skillicons.dev/icons?i=go,java,rust,python,cpp,c,js,ts,react,svelte,astro,pytorch,dart,flutter,tailwindcss,nodejs,clion,vscode,discord,anaconda,docker,electron,ai,github,gmail,linkedin,instagram,linux,latex,notion,npm,ubuntu,webstorm,vite,windows,sqlite" />
+## What I'm building now
 
+**[GitKleen](https://github.com/leoheung/GitKleen)** — a light, native git client for macOS, Windows and Linux, made for coding with agents: the window refreshes while the agent works, you check its changes side by side, stage what's right and hand the rest back. A single Go binary under 7 MB, forked from MyGit and reworked — branches column, diff drawer, tags and stashes panels, and Linux arm64 builds.
 
+**[Go-Playground](https://github.com/leoheung/Go-Playground)** — a Go Playground IDE that runs Go notebooks in the browser.
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=leoxiang66&theme=onedark) -->
+## Selected work
 
+**Go & tooling**
 
+- [go-vpn](https://github.com/leoheung/go-vpn) — a VPN implementation in Go
+- [golan](https://github.com/leoheung/golan) — LAN communications over UDP, HTTPS and WebSocket
+- [distributed-systems](https://github.com/leoheung/distributed-systems) — distributed-systems algorithms implemented in Go
+- [go-gsheets](https://github.com/leoheung/go-gsheets) — Go APIs for Google Sheets
+- [CSV-Studio](https://github.com/leoheung/CSV-Studio) — a workbench for CSV files
 
+**AI & research**
 
+- [RAG-Agent](https://github.com/leoheung/RAG-Agent) — web scraping into a vector database, the first phase of a RAG pipeline
+- [research-trends-analysis](https://github.com/leoheung/research-trends-analysis) — the official repo of the paper *TrendFlow: A Machine Learning Framework for Research Trend Analysis*
+- [study-BCFL-HK-healthcare](https://github.com/leoheung/study-BCFL-HK-healthcare) — a study of blockchain-based federated learning on Hong Kong healthcare
+- [lol_minimap_detection](https://github.com/leoheung/lol_minimap_detection) — detecting champions on a League of Legends minimap
 
-<!-- ## 📊 Coding Stats -->
+**From my robotics days**
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact&rank_icon=github&include_all_commits=true" /> -->
+- [rclgo](https://github.com/leoheung/rclgo) — ROS 2 client bindings for Go
+- [hikvision_ros2_driver](https://github.com/leoheung/hikvision_ros2_driver) — a ROS 2 driver for Hikvision machine-vision cameras
+- [agv-perception](https://github.com/leoheung/agv-perception) — perception for automated guided vehicles, in C++
+- [3D-Detection](https://github.com/leoheung/3D-Detection) — a collection of 3D object detection implementations
+- [Dingo-Application](https://github.com/leoheung/Dingo-Application) — an unofficial cross-platform Docker desktop app in Svelte
 
+**For fun**
 
-<!-- <img src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=leoxiang66&custom_title=Overall%20languages%20excluding%20forks&layout=compact&theme=&include_forks=false&hide=HTML,jupyter%20notebook,NSIS,vue,tex,PostScript,GLSL,dockerfile,svelte,java,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake&langs_count=10,customized-unix-terminal,github-readme-stats" /> -->
+- [lol-yuumi](https://github.com/leoheung/lol-yuumi) — a League of Legends companion for checking your matches
 
-<!-- <img src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=leoxiang66&custom_title=Overall%20languages%20including%20forks&layout=compact&theme=&include_forks=true&hide=HTML,jupyter%20notebook,NSIS,vue,tex,PostScript,GLSL,dockerfile,svelte,java,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake&langs_count=5,customized-unix-terminal,github-readme-stats" /> -->
+## Beyond code
 
+Co-author of [TrendFlow](https://github.com/leoheung/research-trends-analysis), a machine-learning framework for research trend analysis. Before tooling, I spent my TUM years around autonomous driving and the TUM Blockchain Club, and studied federated learning for healthcare in Hong Kong.
 
-<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages&hide=HTML,jupyter%20notebook,Desktop%20File,NSIS,vue,tex,PostScript,YAML,GLSL,dockerfile,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config) -->
+## ❤️ Support Me
 
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@leoxiang66/a34f2f34-1914-4039-a5f7-266c5dd52be9.png" /></a> -->
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoxiang66) -->
-
-
-
-
-
-
-<br>
-<br>
-
-<!--
-<img src="https://wakatime.com/share/@leoxiang66/35184784-ceae-43bf-b3f4-9347e9548f88.svg" width=70%/>
-
-<img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
--->
-
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity) -->
-
-
-
-
-<!-- ## Visitors
-
-<img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
-
-
-## ❤️ Support Me!
-- [Support me on Github Sponsor](https://github.com/sponsors/leoheung)
-
-
+- [Support me on GitHub Sponsors](https://github.com/sponsors/leoheung)

@@ -4,7 +4,7 @@ I write small, fast tools in Go. I came to software through robots — ROS 2, Li
 
 [![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoheung)
 
-<img src="https://skillicons.dev/icons?i=go,python,cpp,rust,ts,react,svelte,nodejs,pytorch,docker,linux,vite,tailwindcss,dart,flutter,latex" />
+<img src="https://skillicons.dev/icons?i=go,java,python,cpp,rust,ts,react,svelte,nodejs,pytorch,docker,linux,vite,tailwindcss,dart,flutter,latex" />
 
 ## What I'm building now
 
